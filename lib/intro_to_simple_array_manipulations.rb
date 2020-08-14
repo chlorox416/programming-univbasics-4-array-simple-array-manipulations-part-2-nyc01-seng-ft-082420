@@ -1,2 +1,3 @@
-a = [1, 2, 3]
-a.concat([4,5])
+def using_concat(a)
+  a.concat
+end
